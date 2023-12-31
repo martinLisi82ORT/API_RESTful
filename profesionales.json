@@ -1,0 +1,18 @@
+[
+	{
+		"nombre": "Dr. Perez",
+		"especialidad": "Cardiologia",
+		"id": "1"
+	},
+	{
+		"nombre": "Dr. Gomez",
+		"especialidad": "Odontologia",
+		"id": "2"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"especialidad": "Cardiologia",
+		"email": "ned4433@flanders.com",
+		"id": "3"
+	}
+]

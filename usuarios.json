@@ -1,0 +1,57 @@
+[
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "ned@flanders.com",
+		"id": "1"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "ned2@flanders.com",
+		"id": "2"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "ned44@flanders.com",
+		"id": "3"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "nedf@flanders.com",
+		"password": "1",
+		"id": "4"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "nedfd@flanders.com",
+		"password": "Casa30",
+		"repeat_password": "Casa30",
+		"id": "5"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "nedfnd@flanders.com",
+		"id": "6"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "nedssfd@flanders.com",
+		"password": "Casa30",
+		"repeat_password": "Casa30",
+		"id": "7"
+	},
+	{
+		"nombre": "Ned Flanders",
+		"edad": 65,
+		"email": "nedsddsfd@flanders.com",
+		"password": "Casa30",
+		"repeat_password": "Casa30",
+		"id": "8"
+	}
+]
